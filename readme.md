@@ -7,7 +7,7 @@ Slope of the chirp is calculated using the formulas described in the lecutres an
 ## Simulation loop
 Initial value of target is set at 100m and the 1D FFT correctly results in the estimate.
 
-##Range FFT (1st FFT)
+## Range FFT (1st FFT)
 Initial value of target is set at 100m and the 1D FFT correctly results in the estimate.
 
 ## 2D CFAR
